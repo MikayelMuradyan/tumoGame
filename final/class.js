@@ -1,4 +1,4 @@
-class Grass {
+/*class Grass {
     constructor(x, y) {
 
         this.x = x;
@@ -437,4 +437,6 @@ class Fbi {
         }
     }
 
-}
+}*/
+
+//petq chi
